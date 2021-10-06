@@ -1,0 +1,14 @@
+- Install express-generator para generar el proyecto
+npm i express express-generator -g
+
+- Create Project express-generator
+express aplicacion --hbs
+
+- Install Dependencias
+npm i
+
+- Estructura basica de la ruta
+const express = require('express');
+const router = express.Router()
+
+module.exports = router
