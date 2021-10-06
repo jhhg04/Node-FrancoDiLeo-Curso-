@@ -1,3 +1,6 @@
+https://www.youtube.com/watch?v=BQ2_i5SNby4&list=PLtKI8MF06ilAVNIuvOQu8rbn8j7qHaoKN&index=4
+NodeJS y MySQL - Ejemplo práctico desde 0
+
 - Install express-generator para generar el proyecto
 npm i express express-generator -g
 
